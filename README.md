@@ -1,3 +1,8 @@
+# Forked
+
+This has been forked and modified to use more modern versions of the Android
+Support library in order to support FCM push.
+
 # react-native-intercom
 React Native wrapper for Intercom.io. Based off of [intercom-cordova](https://github.com/intercom/intercom-cordova)
 
@@ -29,7 +34,7 @@ Run `npm install react-native-intercom`
 ### IOS
 
 More instructions here: [Intercom for iOS](https://github.com/intercom/intercom-ios)
- 
+
 Initialize Intercom in your `AppDelegate.m`
 ```
 #import "Intercom/intercom.h"
