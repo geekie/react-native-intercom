@@ -1,7 +1,7 @@
 {
   "name": "react-native-intercom",
   "version": "5.7.0",
-  "description": "A React Native client for Intercom.io",
+  "description": "A React Native client for Intercom.io, modified to work with FCM",
   "main": "./lib/IntercomClient.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
