@@ -30,6 +30,9 @@ repositories {
     maven {
       url 'https://dl.bintray.com/intercom/intercom-maven'
     }
+    maven {
+        url 'https://maven.google.com'
+    }
 }
 
 dependencies {
